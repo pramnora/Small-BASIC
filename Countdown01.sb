@@ -1,0 +1,5 @@
+'*** PROGRAM: Do count down...
+For intEachNum = 10 To 1 Step -1
+ TextWindow.WriteLine(intEachNum)
+ Program.Delay(1000)
+EndFor
