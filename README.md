@@ -24,8 +24,20 @@ https://www.microsoft.com/en-gb/download/details.aspx?id=22961
 Wikipedia  
 https://en.wikipedia.org/wiki/Microsoft_Small_Basic
 
-Web Site  
-http://www.smallbasic.com
+Web Site(s)  
 
+SmallBASIC.com  
+http://www.smallbasic.com  
+
+Small Basic - The Programmer's Guide  
+http://www.i-programmer.info/programming/other-languages/5196-small-basic-the-programmers-guide.html  
+
+GCSE Computing with Microsoft Small BASIC  
+http://smallbasic.oaktreewebs.co.uk/  
+
+Computer Science For Kids  
+http://www.computerscienceforkids.com/microsoft-small-basic  
+Book preview page - includes code examples  
+http://www.computerscienceforkids.com/Pages/DevelopersGuidetoMicrosoftSmallBasicSampleChapterPreview.aspx  
 
 
