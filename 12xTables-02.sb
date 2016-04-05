@@ -1,0 +1,15 @@
+' --------------------------------------------
+'*** PROGRAM: 12 x Tables/Version 2...
+'                               Gets user input from keyboard.
+'     CREATED: 050416 13:05 PM GMT
+'     UPDATED: 050416 13:05 PM GMT
+' --------------------------------------------
+TextWindow.WriteLine("Which number times tables?")
+intTablesNo = TextWindow.ReadNumber()
+TextWindow.WriteLine("") '...outputs a blank line
+TextWindow.WriteLine(intTablesNo + " X Tables")
+TextWindow.WriteLine("") '...outputs a blank line
+For intTimesNo = 1 To 10
+  TextWindow.WriteLine(intTimesNo + " X " + intTablesNo + " =  " + intTimesNo * intTablesNo)
+EndFor
+TextWindow.WriteLine("")
