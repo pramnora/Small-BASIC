@@ -1,0 +1,11 @@
+'*** PROGRAM: 12 x Tables...
+'     CREATED: 050416 13:05 PM GMT
+'     UPDATED: 050416 13:05 PM GMT
+' --------------------------------------------
+intTablesNo = 5
+TextWindow.WriteLine(intTablesNo + " X Tables")
+TextWindow.WriteLine("") '...outputs a blank line
+For intTimesNo = 1 To 10
+  TextWindow.WriteLine(intTimesNo + " X " + intTablesNo + " =  " + intTimesNo * intTablesNo)
+EndFor
+TextWindow.WriteLine("")
