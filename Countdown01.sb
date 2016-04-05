@@ -1,7 +1,11 @@
 '*** PROGRAM: Do count down...
+
 noOfSecs=1000 '...a millisecond = 1 second
+
 For intEachNum = 10 To 1 Step -1
+
  TextWindow.WriteLine(intEachNum)
  Program.Delay(noOfSecs)
+
 EndFor
 
