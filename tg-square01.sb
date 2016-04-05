@@ -1,0 +1,6 @@
+'***PROGRAM: Turtle Graphics...
+'            LOGO Turtle, draws a 4 side square shape on the output screen.
+For intEachSide = 1 to 4
+  Turtle.Move(100) ' Forward 100 pixels
+  Turtle.Turn(90) ' Turn 90 degrees right
+EndFor
