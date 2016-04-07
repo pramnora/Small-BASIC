@@ -3,7 +3,7 @@ Microsoft Small BASIC
 
 -----
 
-Microsoft Small BASIC, is a very good IDE/Integrated Development Environment...which helps teach people who are new to programming how to code, effectively.
+Microsoft Small BASIC, is a quite simply SUPERB IDE/Integrated Development Environment...for teaching people who are 'new' to learning programming how to code, effectively.
 
 In particular, it includes...
 
