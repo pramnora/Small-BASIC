@@ -14,9 +14,16 @@ Microsoft Small BASIC, is a quite simply SUPERB IDE/Integrated Development Envir
 -> Uses Flickr photos API-Application Programming Interface to change background desktop pic  
 -> Allows you to 'upload' code you've written by publishing it online for others to see/share/play with  
 -> Allows you to 'download' others code...in order to run it/and, play games...or, just in order to learn/see how it's done  
+-> If the browser accepts and can run Microsoft Silverlight plug in; then, it's possible to run Small BASIC program code being found online directly inside of the web browser; without needing to download anything.  
 -> Plus, there is a 'ton' of really helpful resources out there in the form of: books/web sites/videos/-etc.    
 
-**SUMMARY**: QBASIC, was a 'stand alone' program; and, in that sense it's 'old'; you needed a manual to use it. Small BASIC, on the other hand, is truly the face of 'modern day' computer programming; in that it reaches out towards the internet where you can 'share' codes instantly with others -(through upload/download)- to both copy and learn from. This means, you don't really need to use any manual; instead, just simply hack others code...download it, first...test that it works by running it; then, make modifications of your own to change it...re-run to see if those changes work...or, if the code breaks; save others work with a slightly different name...downloaded name: prog1/saved changes name: prog1b/prog1c...as each change/test goes along; and, in this way you learn.
+**SUMMARY**  
+
+QBASIC, though a structured program which did away with old fashioned 'line numbers/-etc'; and, admittedly, came with built-in [F1] help; yet, it remains very much a 'stand alone' program...needing external 'teach yourself how to code' manuals...in order to learn to be able to use it most effectively. 
+
+Small BASIC, on the other hand, is truly the face of 'modern day' computer programming; in that it reaches out towards the internet where you can 'share' codes, instantly, with others -(through upload/download processes)- to both copy and learn from.  
+
+This means, you don't really need to use any manual; instead, just simply hack others code...download it, first...test that it works by running it; then, make modifications of your own to change it...re-run to see if those changes work...or, if the code breaks; save others work with a slightly different name...downloaded name: prog1/saved changes name: prog1b/prog1c...as each change/test goes along; and, in this way you learn.
 
 -----
 
