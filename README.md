@@ -12,6 +12,8 @@ In particular, it includes...
 -> there is built-in intellisense with automatic code completion   
 -> LOGO turtle graphics (very simple and easy to set up/use with just a few lines of code)  
 -> uses Flickr photos API-Application Programming Interface to change background desktop pic  
+-> allows you to 'upload' code you've written by publishing it online for others to see/share/play with  
+-> allows you to 'download' others code...in order to run it/and, play games...or, just in order to learn/see how it's done  
 -> plus, there is a 'ton' of really helpful resources out there in the form of: books/web sites/videos/-etc.    
 
 -----
