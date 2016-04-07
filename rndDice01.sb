@@ -1,0 +1,7 @@
+'*** PROGRAM: Throw a random dice...
+'             shows different random numbers being thrown from: 1 - 6...
+TextWindow.WriteLine("Random dice throw...")
+For intEachThrow = 1 To 100
+  diceNo = Math.GetRandomNumber(6)
+  TextWindow.WriteLine(intEachThrow + "> " + diceNo)
+EndFor
