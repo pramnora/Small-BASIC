@@ -1,0 +1,4 @@
+'** Running this single line of compressed code...
+'   will allow the user to automatically add to their Windows Desktop
+'   a randomly selected graphic chosen from Flickr.
+Desktop.SetWallPaper(Flickr.GetRandomPicture("Old Master"))
